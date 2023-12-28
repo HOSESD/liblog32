@@ -1,0 +1,12 @@
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\ClassLibrary1.vbproj.AssemblyReference.cache
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\ClassLibrary1.AssemblyInfo.vb
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\ClassLibrary1.vbproj.CoreCompileInputs.cache
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0-windows\liblog32.deps.json
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0-windows\liblog32.dll
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0-windows\liblog32.pdb
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\liblog32.dll
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\refint\liblog32.dll
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\liblog32.pdb
+C:\Users\osint\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0-windows\ref\liblog32.dll
